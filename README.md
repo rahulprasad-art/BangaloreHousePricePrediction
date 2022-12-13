@@ -2,7 +2,7 @@
 
 ![Site](https://user-images.githubusercontent.com/67208794/138563870-df25fea1-35bb-4e5c-a12d-ed326bde3618.png)
 
-#### In this project i have build a real estate price prediction website. Firstly a model is build  using sklearn and linear regression using banglore home prices dataset from kaggle.com. Second step is to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. Technologies used,
+#### In this project, I designed a real estate price prediction website. The model was built using sklearn and linear regression using the Bangalore home prices dataset from Kaggle. Using python, a flask server was created that uses the saved model to serve HTTP requests. The website is built in HTML, CSS, and JavaScript, allowing users to enter their home square ft area, bedrooms, etc., to retrieve the predicted price. Technologies used,
 
 #### Python
 #### Numpy and Pandas for data cleaning
